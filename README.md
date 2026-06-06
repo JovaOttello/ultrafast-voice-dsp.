@@ -14,7 +14,12 @@ Zero-LLM-cost, ultra-low latency Digital Signal Processing (DSP) engine for real
 ## Author
 **Mor Hajaj**  
 *Creator of Mindmatch*  
-✉️ Contact for enterprise integrations or advanced emotional AI implementations: Morhagag1@gmail.com
+✉️ Contact for enterprise integrations or advanced emotional AI implementations: 
+
+Looking for the full emotional analysis engine?
+This repository contains the base DSP layer. If you need a complete B2B solution for real-time emotional intelligence, agent coaching, and call-center integration, check out the full Mindmatch API:
+
+Morhagag1@gmail.com
 
 File 2: ultrafast-audio-dsp.ts
 /**
